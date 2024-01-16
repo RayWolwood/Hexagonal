@@ -1,4 +1,4 @@
-package com.hexagon.demo.application.constants;
+package com.hexagon.demo.adapters.in.web.constants;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

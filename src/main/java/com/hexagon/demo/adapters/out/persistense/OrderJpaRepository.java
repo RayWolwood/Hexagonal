@@ -1,8 +1,7 @@
-package com.hexagon.demo.infrastructure.out.jpa;
+package com.hexagon.demo.adapters.out.persistense;
 
 import com.hexagon.demo.domain.in.model.Order;
 import com.hexagon.demo.domain.out.OrderRepository;
-import com.hexagon.demo.infrastructure.out.converter.OrderEntityConverter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

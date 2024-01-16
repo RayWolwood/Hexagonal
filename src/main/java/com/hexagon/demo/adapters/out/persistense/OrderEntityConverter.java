@@ -1,7 +1,7 @@
-package com.hexagon.demo.infrastructure.out.converter;
+package com.hexagon.demo.adapters.out.persistense;
 
 import com.hexagon.demo.domain.in.model.Order;
-import com.hexagon.demo.infrastructure.out.jpa.OrderEntity;
+import com.hexagon.demo.adapters.out.persistense.OrderEntity;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 

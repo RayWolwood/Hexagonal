@@ -1,4 +1,4 @@
-package com.hexagon.demo.infrastructure.out.jpa;
+package com.hexagon.demo.adapters.out.persistense;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

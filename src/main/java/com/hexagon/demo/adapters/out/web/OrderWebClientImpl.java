@@ -1,4 +1,4 @@
-package com.hexagon.demo.infrastructure.out.web;
+package com.hexagon.demo.adapters.out.web;
 
 import com.hexagon.demo.domain.in.model.Order;
 import com.hexagon.demo.domain.out.OrderWebClient;

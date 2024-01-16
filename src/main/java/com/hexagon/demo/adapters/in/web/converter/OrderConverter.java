@@ -1,7 +1,7 @@
-package com.hexagon.demo.application.converter;
+package com.hexagon.demo.adapters.in.web.converter;
 
-import com.hexagon.demo.application.dto.OrderRq;
-import com.hexagon.demo.application.dto.OrderRs;
+import com.hexagon.demo.adapters.in.web.dto.OrderRq;
+import com.hexagon.demo.adapters.in.web.dto.OrderRs;
 import com.hexagon.demo.domain.in.model.Order;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.hexagon.demo.application.dto;
+package com.hexagon.demo.adapters.in.web.dto;
 
 import lombok.Value;
 

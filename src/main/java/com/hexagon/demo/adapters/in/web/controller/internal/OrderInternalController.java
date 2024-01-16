@@ -1,9 +1,9 @@
-package com.hexagon.demo.application.controller.internal;
+package com.hexagon.demo.adapters.in.web.controller.internal;
 
-import com.hexagon.demo.application.constants.PathConstants;
-import com.hexagon.demo.application.converter.OrderConverter;
-import com.hexagon.demo.application.dto.OrderRq;
-import com.hexagon.demo.application.dto.OrderRs;
+import com.hexagon.demo.adapters.in.web.constants.PathConstants;
+import com.hexagon.demo.adapters.in.web.converter.OrderConverter;
+import com.hexagon.demo.adapters.in.web.dto.OrderRq;
+import com.hexagon.demo.adapters.in.web.dto.OrderRs;
 import com.hexagon.demo.domain.in.OrderService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
