@@ -1,4 +1,4 @@
-package com.hexagon.demo.adapters.out.persistense;
+package com.hexagon.demo.adapters.out.jpa;
 
 import com.hexagon.demo.domain.in.model.Order;
 import com.hexagon.demo.domain.out.OrderRepository;
